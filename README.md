@@ -1,14 +1,14 @@
 # Understanding Selenium
 
-## https://selenium-python.readthedocs.io/
+https://selenium-python.readthedocs.io/
 
-## Selenium Playground https://www.seleniumeasy.com/test/
+### Selenium Playground https://www.seleniumeasy.com/test/
 
-## Install Drivers
+### Install Drivers
 
-Chrome
-Edge
-Firefox
+Chrome -
+Edge - 
+Firefox - 
 Safari
 
 
