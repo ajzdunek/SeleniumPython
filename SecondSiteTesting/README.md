@@ -1,6 +1,6 @@
 # What Am I Testing?
 
-Im going to test my own web developement portfolio.
+I'm going to test my own web developement portfolio - https://www.andrewzdunek.com/
 
 ## Things to Test
 
