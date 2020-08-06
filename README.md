@@ -9,7 +9,7 @@ Understanding Selenium by testing Selenium Playground https://www.seleniumeasy.c
 Chrome -
 Edge - 
 Firefox - 
-Safari
-
-
+Safari - 
+Internet Explorer - 
+etc.
 
