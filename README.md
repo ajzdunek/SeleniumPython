@@ -2,7 +2,7 @@
 
 https://selenium-python.readthedocs.io/
 
-Selenium Playground https://www.seleniumeasy.com/test/
+Understanding Selenium by testing Selenium Playground https://www.seleniumeasy.com/test/
 
 ### Install Drivers
 
