@@ -2,7 +2,7 @@
 # ###############################################################################
 # ###############################################################################
 
-# Starter essentials to get Selenium for Python running.
+# Starter essential code to get Selenium for Python running.
 
 from selenium import webdriver          
 
@@ -41,9 +41,24 @@ chrome_browser.get('https://www.seleniumeasy.com/test/basic-first-form-demo.html
 
 # Inspecting the button's HTML
 assert 'Selenium Easy Demo' in chrome_browser.title
-button_text = chrome_browser.find_element_by_class_name("btn-default")
-print(button_text.get_attribute('innerHTML'))
+show_message_button = chrome_browser.find_element_by_class_name("btn-default")
+# this print is not needed for lines 52 through 57
+# print(show_message_button.get_attribute('innerHTML'))
 
 # ---------------------------------------------------------------
 
-# assert 'Show Message' in chrome_browser.page_source
+assert 'Show Message' in chrome_browser.page_source
+
+user_message = chrome_browser.find_element_by_id('user-message')
+user_message.clear()
+
+user_message.send_keys('I AM EXTRA COOOOL')
+
+show_message_button.click()
+output_message = chrome_browser.find_element_by_id('display')
+
+assert 'I AM EXTRA COOOOL' in output_message.text
+
+# There are so many Chrome windows how do we close 
+
+# chrome_browser.quit()
