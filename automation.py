@@ -59,6 +59,6 @@ output_message = chrome_browser.find_element_by_id('display')
 
 assert 'I AM EXTRA COOOOL' in output_message.text
 
-# There are so many Chrome windows how do we close 
+# There are so many Chrome windows how do we close them?
 
 # chrome_browser.quit()
