@@ -7,5 +7,5 @@ I'm going to test my own web developement portfolio - https://www.andrewzdunek.c
 <ol>
 <li>Links in the Navbar and Projects dropdown</li>
 <li>The Form</li>
-<li>Submit Buttom</li>
+<li>Submit Button</li>
 </ol>
