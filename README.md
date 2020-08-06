@@ -1,4 +1,4 @@
-# Understanding Selenium
+# Selenium with Python
 
 https://selenium-python.readthedocs.io/
 
