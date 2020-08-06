@@ -17,5 +17,5 @@ print(chrome_browser)
 
 chrome_browser.maximize_window()
 # What do you want Selenium to test?
-chrome_browser.get('https://www.seleniumeasy.com/test/basic-first-form-demo.html');
+chrome_browser.get('https://www.andrewzdunek.com/');
 
