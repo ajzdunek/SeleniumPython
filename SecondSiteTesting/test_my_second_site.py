@@ -21,3 +21,10 @@ chrome_browser.get('https://www.andrewzdunek.com/');
 
 # Will be adding some tests here ASAP 👇
 
+# ✓ Checking if title is true 
+# print('Andrew Zdunek || Web Developer' in chrome_browser.title)
+
+
+
+
+

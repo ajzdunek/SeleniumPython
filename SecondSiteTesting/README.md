@@ -5,7 +5,9 @@ I'm going to test my own web developement portfolio - https://www.andrewzdunek.c
 ## Things to Test
 
 <ol>
-<li>Links in the Navbar and Projects dropdown</li>
+<li>Checking the Title of the website</li>
+<li>Links in the Navbar</li>
 <li>The Form</li>
 <li>Submit Button</li>
 </ol>
+
